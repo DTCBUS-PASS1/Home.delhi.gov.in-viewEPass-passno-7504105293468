@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-        window.location.href = "pass.html";
+        window.location.href = "main.html";
 
     });
 
